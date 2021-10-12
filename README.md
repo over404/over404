@@ -2,7 +2,7 @@
 
 <br>
 <a href="https://github.com/over404?tab=repositories">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=over404&&show_icons=true&count_private=true" alt="OVER404's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=over404&&show_icons=true&count_private=false" alt="OVER404's github stats"/>
 </a>
 
 
